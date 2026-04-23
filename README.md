@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Irvin Antonio</h1>
-<h3 align="center">Un apasionado desarrollador frontend de África</h3>
+<h3 align="center">Un apasionado desarrollador frontend de Mexico</h3>
 
 - 🔭 Actualmente estoy trabajando en **Cecytem**
 
